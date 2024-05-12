@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Himanshu Aggarwal</h1>
 <h3 align="center">An Aspiring Software Developer from India</h3>
 
-- 🔭 I’m currently working on [Netflix Clone](https://github.com/himanshu864/WebDev/blob/main/CSS/Exercise/Netflix.html)
-
-- 🌱 I’m currently learning **Advanced Javascript, Node.js and DSA**
-
-- 🤝 I’m looking for help with [learning front-end and ML](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp)
-
+- 🌱 I’m currently learning **Advanced Javascript, Node.js, SFML and DSA**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/himanshu864?tab=repositories](https://github.com/himanshu864?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/himanshu-aggarwal-7b7080201/recent-activity/all/](https://www.linkedin.com/in/himanshu-aggarwal-7b7080201/recent-activity/all/)
 
-- 💬 Ask me about **DSA, Game Dev, Web Dev, Philosophy, cats, music, movies.**
+- 💬 Ask me about **Web Development, Game Dev and FromSoft Games, Berserk, soft-rock and Hip-hop music, learning new stuff...**
 
 - 📫 How to reach me **himanshu86400@gmail.com**
 
-- ⚡ Fun fact **I also draw**
+- ⚡ Fun fact **I also picked up drawing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
