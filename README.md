@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A really cool SDE from India!</h3>
+<h1 align="center">Hey 🙌, It's Himanshu</h1>
+<h3 align="center">Pre-Final Computer Science Undergrad at DTU</h3>
 
-- 🌱 I’m currently learning **MEAN Stack Development with Angular and NodeJS/ExpressJS. Also MongoDB/MySQL**
+![LeetCode Stats](https://leetcard.jacoblin.cool/himanshu86400?theme=catppuccinMocha&font=Noto%20Sans%20Mono&ext=heatmap)
+
+- 🌱 I’m currently learning **AI/ML and Game Development**
 
 - 👨‍💻 Here's my most recent project I worked on [Best Tic-Tac-Toe](https://best-tictactoe.vercel.app/)
 
 - 📝 I regularly write articles on [www.Medium.com](/https://medium.com/@himanshu86400)
 
-- 💬 Ask me about **Web and Game Dev. Soulsborne games, Berserk manga, Hip-hop/rock music, learning new stuff...**
+- 💬 Ask me about **Web and Game Dev, Soulsborne games, Berserk manga, Hip-hop/rock music, learning new stuff...**
 
 - 📫 How to reach me **[linktr.ee](https://linktr.ee/himanshu86400)**
 
-- ⚡ Fun fact **I also picked up drawing**
+- ⚡ Fun fact **I use Obsidian for Documentation**
 
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=himanshu864&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a></p>
 
@@ -36,21 +38,15 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
