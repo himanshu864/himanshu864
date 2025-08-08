@@ -1,11 +1,11 @@
 <h1 align="center">Hey 🙌, It's Himanshu</h1>
-<h3 align="center">Pre-Final Computer Science Undergrad at DTU</h3>
+<h3 align="center">Final Computer Science Undergrad at DTU</h3>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/himanshu86400?theme=catppuccinMocha&font=Noto%20Sans%20Mono&ext=heatmap)
 
-- 🌱 I’m currently learning **AI/ML and Game Development**
+- 🌱 I’m currently learning **System Design**
 
-- 👨‍💻 Here's my most recent project I worked on [Best Tic-Tac-Toe](https://best-tictactoe.vercel.app/)
+- 👨‍💻 Here's my most recent project I worked on [Obsidian Publish](https://best-obsidian-publish.vercel.app/)
 
 - 📝 I regularly write articles on [www.Medium.com](/https://medium.com/@himanshu86400)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **[linktr.ee](https://linktr.ee/himanshu86400)**
 
-- ⚡ Fun fact **I use Obsidian for Documentation**
+- ⚡ Fun fact **I use vim btw**
 
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=himanshu864&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a></p>
 
