@@ -3,24 +3,19 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/himanshu86400?theme=catppuccinMocha&font=Noto%20Sans%20Mono&ext=heatmap)
 
-- 🌱 I’m currently learning **System Design**
+- I’m currently learning **System Design**
 
-- 👨‍💻 Here's my most recent project I worked on [Obsidian Publish](https://best-obsidian-publish.vercel.app/)
+- Here's my most recent project I worked on [Obsidian Publish](https://best-obsidian-publish.vercel.app/)
 
-- 📝 I regularly write articles on [www.Medium.com](/https://medium.com/@himanshu86400)
+- How to reach me **[linktr.ee](https://linktr.ee/himanshu86400)**
 
-- 💬 Ask me about **Web and Game Dev, Soulsborne games, Berserk manga, Hip-hop/rock music, learning new stuff...**
-
-- 📫 How to reach me **[linktr.ee](https://linktr.ee/himanshu86400)**
-
-- ⚡ Fun fact **I use vim btw**
+- Fun fact **I use vim btw**
 
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=himanshu864&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himanshu-aggarwal-7b7080201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-aggarwal-7b7080201" height="30" width="40" /></a>
-<a href="https://twitter.com/himanshu86400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshu86400" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/himanshu86400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshu86400" height="30" width="40" /></a>
 </p>
 
