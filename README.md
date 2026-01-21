@@ -1,5 +1,5 @@
 <h1 align="center">Hey 🙌, It's Himanshu</h1>
-<h3 align="center">Final Computer Science Undergrad at DTU</h3>
+<h3 align="center">Final year CS Undergrad at DTU</h3>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/himanshu86400?theme=catppuccinMocha&font=Noto%20Sans%20Mono&ext=heatmap)
 
